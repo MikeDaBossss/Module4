@@ -22,7 +22,7 @@
 
 
 
-## Be careful there is an error in the data, there is a few missing values in a few zipcodes. If you read the comments you can see where you will have to run items in the jupyter notebook out of order. It shouldn't be that much of a problem.
+## Be careful there is an error in the data, there are a few missing values in a few zipcodes. If you read the comments you can see where you will have to run items in the jupyter notebook out of order. It shouldn't be that much of a problem.
 
 
 
